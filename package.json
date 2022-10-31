@@ -1,0 +1,11 @@
+{
+  "name": "FinAPP_Financas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Huagner <huagnerxavier11@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
